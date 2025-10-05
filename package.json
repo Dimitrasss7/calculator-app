@@ -1,0 +1,16 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "Modern web calculator with responsive design and keyboard support",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s .",
+    "dev": "serve -s ."
+  },
+  "keywords": ["calculator", "web-app", "javascript", "responsive"],
+  "author": "CODA AI",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
